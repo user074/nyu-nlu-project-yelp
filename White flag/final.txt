@@ -1,0 +1,936 @@
+dessert 
+order 
+wine 
+liver mousse pate 
+dish 
+bread 
+butter 
+salmon 
+fish 
+steak 
+chocolate tart 
+onions 
+wine sauce 
+celery 
+apple slaw 
+oil 
+chicken liver pate 
+steak sandwich 
+cream 
+onion soup 
+jam 
+corn beef hash 
+plate 
+meat 
+coffee 
+cheese 
+cream cheese 
+custard 
+bread and soda 
+sauce 
+cauliflower 
+egg and bacon 
+salad 
+soup 
+entree 
+roll 
+sugar 
+apple 
+spinach salad 
+walnut 
+grapefruit 
+garlic 
+carrot salad 
+honey 
+lobster 
+shrimp 
+steaks 
+bagel 
+yolk 
+ketchup 
+ham 
+crepe 
+drink 
+lamb 
+crab 
+beef hash 
+bacon 
+chips 
+egg 
+savory 
+duck confit 
+chicken crepe 
+lime juice 
+cheese and pear 
+sandwich 
+banana muffin 
+muffin 
+banana 
+batter 
+waffle 
+syrup 
+onion soup and bread 
+tomato sauce 
+oyster 
+beef 
+oyster potato soup 
+butter and apple 
+apple plate 
+pasta 
+pate plate 
+mussels and salad 
+mushroom 
+egg benedict 
+pate 
+duck 
+chocolate cake 
+chicken sausage 
+pepper 
+carrot slaw 
+caramel chocolate tart 
+tart 
+benedict 
+salmon and avocado 
+chicken 
+rib benedict 
+crepe and spinach 
+butter garlic sauce 
+crab cake 
+toast 
+salmon and quinoa 
+pepper steak 
+pancake 
+cinnamon butter 
+fries chips 
+tuna sandwich 
+macaroni 
+quiche 
+carrot soup 
+wafer 
+salmon benedict 
+mushroom omelet 
+carrot 
+fruit salad 
+lobster sandwiches 
+beer 
+cheesecake 
+hash 
+chocolate mousse 
+butter lettuce salad 
+lettuce 
+turkey sandwich 
+turkey 
+chicken liver mousse pate 
+spinach 
+raspberry preserves 
+garlic bread 
+potato 
+salmon salad 
+ham and cheese crepe 
+savory ham 
+onions and mustard mayo 
+steaks and sandwiches 
+ice cream 
+cereal and fruit 
+blueberry 
+blueberry syrup 
+orange juice 
+juice 
+cinnamon cream cheese 
+lemon chicken 
+quinoa 
+garlic and bread 
+vanilla ice cream 
+kale salad 
+fruit 
+ginger 
+omelet 
+onion 
+lemon 
+vinegar 
+cream and blueberry syrup 
+ham and cheese 
+bread and butter 
+orange 
+chocolate sauce 
+avocado and bacon 
+chip 
+loaf 
+steak and salmon 
+fruit and croissant 
+cod 
+sausage 
+roast chicken 
+beef hash and ham 
+chili 
+rib 
+ice 
+butter and cream 
+tomato 
+horseradish 
+mustard 
+corn beef and hash 
+wine and herbs 
+potato chips 
+croissant 
+croissant sandwich 
+flour 
+duck confit and spinach 
+confit 
+lobster roll 
+corn 
+grain mustard 
+blueberry sauce 
+mushroom soup 
+vodka 
+cream wine sauce 
+garlic and cream 
+pork 
+yolk and sauce 
+cake 
+crab sandwich 
+caramel sauce 
+artichoke soup 
+beef sandwich 
+jam and butter 
+juice and tea 
+grapefruit juice 
+tea 
+scallops and steak 
+salmon and avocado salad 
+chicken liver mousse 
+sauce and mussels 
+tomato soup sauce 
+wasabi 
+egg yolk 
+salmon and vegetable 
+shrimp and scallops 
+cream sauce 
+butter sauce 
+sausage plate 
+meat pate 
+parsnip 
+trout 
+lemon sauce 
+chicken and mushroom 
+drink order 
+lemon and herbs 
+quinoa and tomato 
+blt benedict 
+spinach and salmon 
+chicken liver 
+steak sauce 
+coffee cake 
+almond trout 
+chips and fries 
+wine and shallots 
+tomato soup 
+bread and jam 
+cabbage 
+wine vinegar 
+crab benedict 
+apple salad 
+taco 
+salt 
+patty 
+blueberry waffle 
+raspberry 
+butter and carrot slaw 
+bacon salad 
+steak fries 
+onion steak 
+salmon and egg salad sandwich 
+bread and carrot salad 
+kale and chicken salad 
+mayonnaise 
+mayo 
+banana and strawberry crepe 
+tarragon 
+toast and crepe 
+orange chocolate chip muffin 
+chocolate 
+brisket 
+roast beef 
+corn beef 
+vanilla 
+bread and strawberry jam 
+chicken sandwich 
+sorbet 
+mousse 
+pate mousse 
+chicken pate 
+salt and pepper 
+berry 
+turkey and avocado 
+fish and steak 
+chicken mushroom crepe 
+mustard mayo 
+seaweed salad 
+lemon and crackers 
+wheat 
+potato chip 
+carrot salad and bread 
+soda 
+sausage and toast 
+chicken and mushroom crepe 
+mushroom and chicken 
+steak and potato chips 
+pork sandwich 
+coffee and orange juice 
+whiskey 
+garlic butter 
+chocolate bread 
+oatmeal 
+macaroni and cheese 
+spinach salmon salad 
+hamburger 
+rice 
+chocolate syrup 
+butter and salt 
+steak and fries 
+bacon and cheese 
+pasta noodles 
+order spinach 
+kale 
+avocado salmon salad 
+pear 
+salad and scallops 
+tomato salad 
+beef dish 
+oyster soup 
+mustard sauce 
+halibut 
+steaks and fish 
+meatloaf sandwich 
+cranberry juice 
+pickles 
+fish and fries 
+pizza 
+zucchini 
+lobster and fish 
+chocolate croissant 
+cheese sauce 
+thyme 
+savory crepe 
+bacon egg 
+fillet 
+nut 
+butter and syrup 
+dairy 
+salmon spinach salad 
+order steak 
+marmalade 
+vinegar carrot 
+beef and hash 
+ice tea 
+sage 
+basil sauce 
+rib steak sandwich 
+beef stew 
+hash fries 
+apple crepe 
+basil butter 
+wine and onions 
+chicken blt sandwich 
+pate and bread 
+broccoli 
+liver 
+pickles and onions and mustard seeds 
+ice cream and coffee 
+liver pate 
+ham and cheese sandwich 
+chicken and apple crepe 
+duck liver pate 
+oil and lemon 
+blt 
+bacon and toast 
+avocado and mayo 
+napkin 
+wine butter sauce 
+mint syrup 
+yogurt 
+ice cream dessert 
+parsnip curry soup 
+snack 
+mug 
+duck and pork 
+egg benedict bread 
+juice and pepper 
+artichoke sauce 
+orange chocolate chips muffin 
+strawberry waffle 
+vanilla ice cream cake 
+bread and garlic 
+meat sandwiches 
+pepper honey 
+steaks and wine 
+mousse and pate 
+wheat toast 
+confit benedict 
+almond cake 
+caramel 
+squash and spinach 
+cinnamon 
+garlic and butter 
+butter and bread 
+turkey and egg 
+popcorn 
+salmon and steak 
+bread loaf 
+pork brisket sandwich 
+cream and blueberry 
+casserole 
+tuna steak 
+apple juice 
+corn beef sandwich 
+meat and sauce 
+vanilla sauce 
+vanilla ice cream and orange marmalade 
+dessert and wine 
+cantaloupe 
+melon 
+pineapple 
+avocado 
+tomato and bacon 
+lamb hash 
+rib sandwich 
+raspberry dessert 
+pie 
+toast and bacon 
+cheese and sauce 
+onion sauce 
+fish and chips 
+artichoke 
+butter and carrot 
+vinegar sauce 
+licorice 
+romaine 
+ice cream and chocolate sauce 
+crab meat 
+lobster sandwich 
+garlic parsley butter 
+order fries 
+cream ice cream 
+sausage and cheese 
+ribs 
+butter and corn sauce 
+salami 
+jam and mustard 
+cream butter sauce 
+pasta dish 
+butter and jam 
+cobbler 
+tuna salad 
+crab and lobster 
+crepe and fruit plate 
+mushroom quiche 
+parsley 
+butter and herbs 
+lemonade 
+sage tea 
+chicken and broccoli crepe 
+apple cinnamon waffle 
+apple waffle 
+bread sauce 
+salmon blueberry salad 
+egg salad 
+slaw 
+custard flan 
+flan 
+egg benedict and banana waffle 
+banana waffle 
+egg plate 
+sugar and mint syrup 
+ice cream cake 
+garlic and onions 
+duck and fig 
+order dessert 
+cream and syrup 
+pea sauce 
+cabbage salad 
+tuna 
+mayo sauce 
+lemon salmon 
+strawberry sorbet 
+turkey egg 
+berry pancake 
+crab salad sandwich 
+ginger and lime 
+ladle 
+mushroom crepe 
+wine and butter sauce 
+salmon quiche 
+tomato relish 
+steak and scallops 
+spinach and artichoke 
+apple pancake 
+salad and steak 
+corn hash beef 
+crepe and corn beef hash 
+crab salad 
+cupcake 
+blt sandwich 
+egg and cheddar sandwich 
+apple tart 
+mushroom benedict 
+chicken entree 
+quiche and salad 
+lime 
+wine mustard 
+cheese and bread 
+caramel ice cream 
+savory chicken 
+steak and lobster 
+tomato juice 
+rosemary 
+salmon and roast beef 
+butter lettuce 
+squash 
+punch 
+mint sauce 
+salmon and egg 
+steak and beef 
+butter and peach jam 
+pea 
+peach crepe 
+raspberry jam 
+salmon and spinach salad 
+sausage sandwich 
+liver mousse 
+relish 
+order mussels 
+butter lettuce and apple salad 
+garlic potato chips 
+cauliflower and spinach 
+duck meat 
+cinnamon apple waffle 
+bread and cheese 
+lobster benedict 
+chili oil 
+anchovy 
+milk 
+sole 
+onion soup and salmon 
+stew 
+coleslaw 
+ham and spinach crepe 
+wheat bread 
+blt salad 
+fruit and yogurt 
+benedict biscuit 
+sandwich and crepe 
+scallops and shrimp 
+cheese and herbs 
+strawberry vanilla waffle 
+cream soup 
+lemon and capers 
+noodles 
+toast and ham 
+egg croissant sandwich 
+onions soup 
+lemon marmalade 
+mushroom hash 
+coffee drink 
+stringy 
+butter and garlic 
+egg omelet 
+cheddar 
+egg and bacon salad 
+tomato and spinach 
+chives and cheese 
+vegetable 
+avocado toast 
+butter and slaw 
+salad and lemon 
+wine and onion 
+banana crepe 
+dough 
+citron butter 
+bacon and egg 
+poutine 
+lobster meat 
+steak and salad 
+vinegar and oil 
+carrot dish 
+salmon egg benedict 
+cheese and chives 
+hazelnut 
+coffee order 
+chocolate and bacon 
+wine and sandwiches 
+saffron sauce 
+basil 
+avocado and tomato 
+hash and toast 
+chicken salad sandwich 
+egg dish 
+shrimp and steak 
+scallops 
+potato soup 
+trout and mussels 
+chicken mousse pate 
+meat and beans 
+wine and order 
+berry waffle 
+chocolate hazelnut waffle 
+savory egg 
+chocolate caramel tart 
+carrot relish 
+pepper salt 
+vanilla custard 
+onions and cheese 
+tuna salad and seaweed salad 
+waffle and crepe 
+egg salad sandwich 
+fries and chips 
+caramel cream 
+croissant and muffin 
+chicken dish 
+butter cream 
+chicken and broccoli quiche 
+oyster benedict 
+onion marmalade 
+cream dessert 
+pepper sauce 
+crepe and fish 
+roast beef sandwich 
+roast duck 
+ginger and carrot soup 
+chicken and steak 
+chocolate mousse and coffee 
+avocado tomato 
+tomato sauce and chicken liver pate 
+citrus salmon 
+salmon plate 
+salmon and capers 
+cherry 
+strawberry 
+salmon and blueberry 
+cream cheese and potato 
+chives and cilantro 
+caramel sauce and vanilla ice cream 
+dessert and coffee 
+beer and wine 
+bread and coffee 
+celery and cilantro 
+mango 
+strawberry crepe 
+grain 
+potato hash 
+pomegranate 
+crab cake sandwich 
+blackberry 
+fruit plate 
+lemon tarragon halibut 
+salmon and citrus 
+celery and cream 
+cheese and apple 
+yam 
+gravy 
+fig 
+toast and quiche 
+garlic spinach 
+onions and sauce 
+wine order 
+avocado relish 
+steak steak steak 
+toast dessert 
+steaks and fries 
+cinnamon pancake 
+toast and tea 
+toast and jam 
+chocolate sauce and ice cream 
+grub 
+grape and mint juice 
+grape 
+bread and slaw 
+boysenberry 
+strawberry and banana 
+peach 
+beef brisket 
+pumpkin soup 
+berry jam 
+butter scallops 
+pickles and bread 
+beans and corn 
+barbecue 
+ragout 
+cheese sauce and fries 
+cranberry sauce 
+cheese and bacon 
+carrot and raisin salad and butter 
+juice and onions 
+lemon pancake 
+papaya 
+blueberry jam 
+wine and chocolate mousse 
+parsley butter sauce 
+lemon crepe 
+strawberry and vanilla waffle 
+buffalo 
+lobster and slaw 
+marmalade and cream 
+pineapple and vodka 
+greens salad 
+oil and basil 
+mushroom pasta 
+roll sandwich 
+cucumber soup 
+soy 
+chicken apple sausage 
+salmon citrus salad 
+chicken plate 
+bacon and onions 
+onion and apple 
+shrimp salad sandwich 
+shrimp salad 
+vanilla and chocolate 
+soup order 
+salmon fillet 
+crab benedict and steak sandwich 
+hamburger and fries 
+salmon and wine 
+trout dish 
+cheese and mushroom and chicken crepe 
+benedict and egg benedict 
+onions and lentils 
+salmon quinoa 
+cinnamon sugar crepe 
+oatmeal and apple waffle 
+order trout 
+grape and almond soup 
+wine sauce and onions 
+sugar and yogurt 
+fruit dessert 
+butter and wine 
+wine sauce steak 
+ice cream sundae 
+oil and honey 
+soup and salad 
+bacon quiche 
+shrimp and scallops crepe 
+salmon bagel 
+shrimp crepe 
+celery salad 
+mushroom sauce 
+bacon and fruit 
+sake 
+chicken liver mousse and duck confit 
+beet soup 
+wine butter 
+eggplant 
+crepe and onion soup 
+egg and sauce 
+syrup sauce 
+pork meat dish 
+tomato and basil salad 
+salmon sandwich 
+cheese and fruit 
+chocolate hazelnut 
+sauce and cream 
+cheese and ham 
+blackberry jam 
+sushi 
+steak entree 
+bread and wine 
+coffee and cream 
+chocolate caramel 
+roast pork 
+chicken broccoli crepe 
+bread and mustard 
+meat juice 
+pate and mussels 
+chocolate chips 
+turkey and mayo 
+quinoa salad 
+salmon dish 
+rosemary and lemon 
+blackberry bran muffin 
+bacon and turkey 
+trout and fish 
+lemon quinoa 
+turkey omelet 
+raisin chutney 
+cheese plate 
+raisin bread 
+fruit juice 
+chicken apple crepe 
+spinach crepe 
+order order order 
+apple and chicken sandwich 
+sandwich and fries 
+bread and steak 
+wine and garlic 
+mussels and lobster roll 
+bread and steaks 
+spinach omelet 
+pate and salad 
+steak juice 
+apple and celery soup 
+dill 
+chocolate torte 
+torte 
+macaroni and spinach 
+salmon and pate 
+asparagus soup 
+soup and fries 
+blueberry muffin 
+croissant sandwich and blueberry 
+steak and trout 
+beer batter 
+caramel sauce and cream 
+pate and chicken liver mousse 
+wasabi mayo 
+scallops and trout 
+salad and wine 
+avocado tomato relish 
+order turkey 
+lentils and bacon 
+pickle dish 
+waffle fries 
+mango sorbet 
+butter and lemon 
+ham and cheese omelet 
+mustard salmon 
+trout and salmon 
+quiche and lobster roll 
+roast 
+parsley and shallots 
+bread and onion soup 
+chard 
+candy 
+wine and dessert 
+spinach and bacon salad 
+salmon entree 
+waffle batter 
+bacon spinach salad 
+jicama 
+vegetable salad 
+egg and spinach 
+onions and fries 
+bacon and avocado 
+shrimp and salmon 
+fruit and honey 
+bread plate 
+shrimp dish 
+chips and avocado 
+cream and sugar 
+kale salad and onion soup 
+mustard and toast 
+cheese and spinach 
+berry crepe 
+turkey and bacon 
+order soup 
+garlic and lime 
+steak and sauce 
+mushroom and chicken crepe 
+lobster roll sandwich 
+apple sandwich 
+liver pate and sandwiches 
+potato fries 
+garlic and butter sauce 
+beet and apple salad 
+jicama and cucumber slaw 
+cheddar cheese 
+croissant egg 
+bagel and lox 
+corn salad 
+spaghetti 
+sauce and fries 
+blt crab sandwich 
+chicken salad 
+sustenance 
+macaroni and mousse 
+cream and vanilla ice cream 
+mustard and ketchup 
+mustard butter sauce 
+salmon and trout dish 
+egg sandwich 
+cheese sandwich 
+order drink 
+chocolate mousse dessert 
+kale and bacon salad 
+bread and preserves 
+milkshake 
+chicken apple 
+stringy fries 
+toast and bacon and coffee 
+mushroom sandwich 
+spinach quiche 
+chicken and fries 
+strawberry and lemon sorbet 
+meat and fries 
+cod sandwich 
+onions and capers 
+bacon poutine 
+donut 
+chocolate and strawberry 
+pepper seeds 
+cheese crepe 
+banana crepe dessert 
+wine garlic sauce 
+grape and strawberry 
+mint juice 
+ham crepe 
+garlic parsley sauce 
+caramel tart 
+fish and chicken 
+salmon and trout 
+onion and wine sauce 
+berry tart 
+salmon and lentils 
+honey lemon butter 
+savory dish 
+beef hash and onion soup 
+strawberry jam 
+radish and corn 
+ginger beer 
+garlic sauce 
+lobster salad sandwich 
+spinach and salmon salad 
+salmon and lox 
+squash soup 
+turkey meat 
+lox 
+bread and corn 
+ham and spinach 
+butter nut squash soup 
+beet 
+spinach lettuce 
+chocolate dessert 
+chocolate chip orange muffin 
+carrot vinegar 
+beef benedict 
+spinach and asparagus quiche 
+steak dish 
+bacon cheese and egg crepe 
+cheese and onion soup 
+onion and capers 
+sauce and bacon 
+mint 
+tuna salad dish 
+steak benedict 
+crab cake benedict 
+fruit tart 
+bagels 
+egg benedict and waffle 
+chocolate chip and bacon waffle 
+duck benedict 
+salmon and asparagus 
+mousse pate 
+steak and onions 
+sauce steak 
+scallops dish 
+duck hash 
+pineapple and grape 
+mint and cream 
+order fruit 
+beans 
+cheese butter 
+corn beef and salmon 
+bacon and crepe 
+chicken blt and shrimp 
+blueberry cinnamon toast 
+egg cheese and bacon crepe 
+buckwheat crepe 
+cream and butter 
